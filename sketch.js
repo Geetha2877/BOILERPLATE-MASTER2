@@ -6,7 +6,7 @@
  function setup() {
   var canvas =createCanvas(400,400);
   engine=Engine.create();
-  World=engine.world;
+  world=engine.world;
   box1=new Box();
   
  }
