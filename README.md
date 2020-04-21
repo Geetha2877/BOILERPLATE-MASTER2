@@ -1,1 +1,2 @@
-# boilerplate-2--Class-C23
+# p5.play-BOILERPLATE-MASTER2
+BOILERPLATE-MASTER2 for p5.play
