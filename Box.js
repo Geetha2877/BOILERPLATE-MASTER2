@@ -4,7 +4,7 @@ class Box {
             restitution: 1.0
     }
         this.body = Bodies.rectangle(200,100,50,50,options);    
-        world.add(world,this.body);
+        World.add(world,this.body);
     }
     display() {
         var pos = this.body.position;
