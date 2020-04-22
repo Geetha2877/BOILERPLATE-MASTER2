@@ -4,12 +4,12 @@ class Box {
             restitution: 1.0
     }
         this.body = Bodies.rectangle(200,100,50,50,options);    
-        World.add(world,this.body);
+        World.add(world, this.body);
     }
     display() {
         var pos = this.body.position;
         rectMode(CENTER);
-        fill(0);
+        fill(255);
         rect(pos.x, pos.y, this.width, this.height);
 
     }
