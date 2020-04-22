@@ -12,7 +12,7 @@
  }
 
   function draw() {
-  background(0);  
+  background(100);  
   Engine.update(engine);
   box1.display();
   
